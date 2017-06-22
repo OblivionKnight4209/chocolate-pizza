@@ -1,6 +1,9 @@
-img{
+img.logo{
   float:left;
 }
-.logoText{
+p.logoText{
   float:left;
+}
+span.socialMediaIcons{
+  float:right;
 }
