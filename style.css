@@ -21,5 +21,18 @@ p.foodCookingDetails{
 }
 form.paperBackground{
   background-image: url("img/list-bg.png");
-  
+  font-size: 20px;
+}
+.checklist{
+
+}
+img.van{
+  float: left;
+}
+p.repo{
+  float:left;
+}
+br{
+  display:block;
+  margin: 10px 0;
 }
