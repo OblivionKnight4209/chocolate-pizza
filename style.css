@@ -7,3 +7,19 @@ p.logoText{
 span.socialMediaIcons{
   float:right;
 }
+h1{
+float:none;
+}
+p.post{
+
+}
+img.pizzaImage{
+  width:auto;
+}
+p.foodCookingDetails{
+  padding-bottom: 15px;
+}
+form.paperBackground{
+  background-image: url("img/list-bg.png");
+  
+}
