@@ -10,6 +10,7 @@ span.socialMediaIcons{
 }
 h1{
   font-size: 30px;
+  clear:both;
 
 }
 p.post{
@@ -46,4 +47,9 @@ p.repo{
 br{
   display:block;
   margin: 10px 0;
+}
+footer{
+  height:auto;
+  width:auto;
+  clear:both;
 }
