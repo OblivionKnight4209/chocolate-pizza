@@ -3,7 +3,61 @@ img.logo{
 }
 p.logoText{
   float:left;
+  font-size: 10px;
 }
 span.socialMediaIcons{
   float:right;
+}
+h1{
+  font-size: 30px;
+  clear:both;
+
+}
+p.post{
+font-display: auto;
+}
+img.pizzaImage{
+  border: 25px 25px;
+}
+p.foodCookingDetails{
+  padding-bottom: 15px;
+}
+div.ingList{
+  background-image: url("img/list-bg.png");
+}
+form.paperBackground{
+  font-size: 20px;
+  display:inline-block;
+  margin-left: 50px;
+}
+form.paperBackground1{
+  font-size: 20px;
+  display:inline-block;
+  margin-left: 50px;
+}
+input[type=checkbox]:checked{
+  text-decoration: line-through;
+}
+img.van{
+  float: left;
+}
+p.repo{
+  float:left;
+}
+br{
+  display:block;
+  margin: 10px 0;
+}
+input.submitButton{
+  background-color: #ffdab9;
+  float:right;
+  color: white;
+  font-size: 15px;
+  margin: 10px 10px;
+  padding: 25px 25px;
+}
+footer{
+  height:auto;
+  width:auto;
+  clear:both;
 }
