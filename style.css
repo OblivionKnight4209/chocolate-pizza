@@ -13,6 +13,9 @@ h1{
   clear:both;
 
 }
+img.printIcon{
+  float:right;
+}
 p.post{
 font-display: auto;
 font-size: 10px;
